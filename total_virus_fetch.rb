@@ -5,7 +5,7 @@ require 'json'
 require 'open-uri'
 require 'resolv'
 
-KEY = 'ad7c69cf762e82d1c367bb4daaca4330c4d3db267e234e257694b60415a3cf06'
+KEY = 'XXXXXXXXX'
 	puts "Will not retain scan results for clean or unrated websites"
 begin
 	print "Enter URL/IP: "
