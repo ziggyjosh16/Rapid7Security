@@ -1,4 +1,4 @@
-#TotalVirusAPI
+## TotalVirusAPI
 
 API script for quick for search and evaluation of security rating for any URI. Written in Ruby.
 
